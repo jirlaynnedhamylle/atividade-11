@@ -1,0 +1,12 @@
+body {
+    font-family: cursive;
+    background-color: rgb(188, 117, 255);
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.btn-danger {
+    margin-top: 5px;
+}
